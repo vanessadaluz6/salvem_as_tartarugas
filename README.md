@@ -8,21 +8,21 @@ PRESERVAÇÃO DE TARTARUGAS MARINHAS
 
 **Como as tartarugas marinhas nascem?**
  
-     As tartarugas embora sejam marinhas, utilizam o ambiente terrestre - a praia - para desova, garantindo o local adequado à incubação dos ovos e o nascimento dos filhotes. Estes, rompem os ovos após um período de incubação que varia de 45 a 60 dias, dependendo do calor da areia. Já nascem independentes, mesmo sendo tão pequenos e frágeis. Muitos são devorados por predadores, outros morrem de fome e doenças naturais. De cada mil filhotes apenas um ou dois atingem a idade adulta, em média com 30 anos.
+ As tartarugas embora sejam marinhas, utilizam o ambiente terrestre - a praia - para desova, garantindo o local adequado à incubação dos ovos e o nascimento dos filhotes. Estes, rompem os ovos após um período de incubação que varia de 45 a 60 dias, dependendo do calor da areia. Já nascem independentes, mesmo sendo tão pequenos e frágeis. Muitos são devorados por predadores, outros morrem de fome e doenças naturais. De cada mil filhotes apenas um ou dois atingem a idade adulta, em média com 30 anos.
 
   Os **projetos voluntários de preservação de tartarugas** marinhas tem como objetivo garantir que as tartarugas completem o período de incubação e cheguem ao mar em segurança. Tendo em vista que alguns predadores terrestres possam inviabilizar esse processo, como por exemplo, cachorros. Outros fatores que inviabilizam esse processo é o trânsito de pessoas na praia, como também a poluição.
-
+  
 **CADASTRO**
 
-	Esse projeto foi tem como objetivo auxiliar os voluntários no monitoramento dos ninhos de tartarugas da praias de João Pessoa utilizando uma interface gráfica intuitiva. A primeira tela, o usuário pode cadastrar quantos ninhos for necessário.
+Esse projeto foi tem como objetivo auxiliar os voluntários no monitoramento dos ninhos de tartarugas da praias de João Pessoa utilizando uma interface gráfica intuitiva. A primeira tela, o usuário pode cadastrar quantos ninhos for necessário.
 
 ![TELAINICIAL](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/inicial.png)
 	
-	Na segunda, temos a tela das estatísticas onde aparecerão o total de praias cadastradas, como também a quantidade de ninhos cadastrados em cada praia. Como podemos ver a seguir:
+Na segunda, temos a tela das estatísticas onde aparecerão o total de praias cadastradas, como também a quantidade de ninhos cadastrados em cada praia. Como podemos ver a seguir:
 
 ![TELAESTATISTICAS](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/telaestatisticas.png)
 	   
-#**Manual do usuário**
+##**Manual do usuário**
 
 **Vamos começar o cadastro?**
 
