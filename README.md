@@ -1,6 +1,6 @@
 # salvem_as_tartarugas
 
-PRESERVAÇÃO DE TARTARUGAS MARINHAS
+##PRESERVAÇÃO DE TARTARUGAS MARINHAS
 
 
 **Projeto feito utilizando QT Creator para a disciplina de Técnicas de Programação 2019.2** 
@@ -22,7 +22,7 @@ Na segunda, temos a tela das estatísticas onde aparecerão o total de praias ca
 
 ![TELAESTATISTICAS](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/telaestatisticas.png)
 	   
-##**Manual do usuário**
+### **Manual do usuário**
 
 **Vamos começar o cadastro?**
 
