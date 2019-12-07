@@ -10,7 +10,7 @@
  
  As tartarugas embora sejam marinhas, utilizam o ambiente terrestre - a praia - para desova, garantindo o local adequado à incubação dos ovos e o nascimento dos filhotes. Estes, rompem os ovos após um período de incubação que varia de 45 a 60 dias, dependendo do calor da areia. Já nascem independentes, mesmo sendo tão pequenos e frágeis. Muitos são devorados por predadores, outros morrem de fome e doenças naturais. De cada mil filhotes apenas um ou dois atingem a idade adulta, em média com 30 anos.
 
-  Os **projetos voluntários de preservação de tartarugas** marinhas tem como objetivo garantir que as tartarugas completem o período de incubação e cheguem ao mar em segurança. Tendo em vista que alguns fatores que inviabilizam esse processo como por exemplo o trânsito de pessoas na praia, como também a poluição e predadores terrestres(cachorros).
+  Os **projetos voluntários de preservação de tartarugas** marinhas tem como objetivo garantir que as tartarugas completem o período de incubação e cheguem ao mar em segurança. Tendo em vista que alguns fatores inviabilizam esse processo como por exemplo o trânsito de pessoas na praia, como também a poluição e predadores terrestres(cachorros).
   
 **CADASTRO**
 
