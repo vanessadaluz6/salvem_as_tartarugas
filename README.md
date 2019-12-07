@@ -59,7 +59,7 @@ Ele terá acesso a **quantidade total de ninhos cadastrados** e também a quanti
 
 **Caso você queira editar ou excluir algum cadastro, não se preocupe!**
 Para editar, bastar modificar as opções desejadas e clicar no botão **"Salvar"**. 
-Ou, se você quiser excluir, basta clicar no botão **"Excluir". **
+Ou, se você quiser excluir, basta clicar no botão **"Excluir".**
 Você perceberá, que em seguida, o que você modificou será atualizado na tabela. =) 
 
 ![EDITAR](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/editaratualizado.png)
