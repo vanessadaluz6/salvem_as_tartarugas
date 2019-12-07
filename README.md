@@ -55,7 +55,7 @@ Ele terá acesso a **quantidade total de ninhos cadastrados** e também a quanti
 
 **OBSERVAÇÃO:**
 
-É importante ressaltar que, ao usuário ordenar por **desova**, ele também estará ordenando por **ninhos com datas mais próximas do nascimento**, tendo em vista que um está diretamente ligado ao outro. 
+É importante ressaltar que, ao ordenar por **desova**, ele também estará ordenando por **ninhos com datas mais próximas do nascimento**, tendo em vista que um está diretamente ligado ao outro. 
 
 **Caso você queira editar ou excluir algum cadastro, não se preocupe!**
 Para editar, bastar modificar as opções desejadas e clicar no botão **"Salvar"**. 
