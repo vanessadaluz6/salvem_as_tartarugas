@@ -1,9 +1,9 @@
 # salvem_as_tartarugas
-#PRESERVAÇÃO DE TARTARUGAS MARINHAS
+PRESERVAÇÃO DE TARTARUGAS MARINHAS
 
 
 
-#**Projeto feito utilizando QT Creator para a disciplina de Técnicas de Programação 2019.2** 
+**Projeto feito utilizando QT Creator para a disciplina de Técnicas de Programação 2019.2** 
 
 Projeto desenvolvido para auxiliar no monitoramento de ninhos de tartarugas das praias de João Pessoa.
 
