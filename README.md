@@ -42,7 +42,7 @@ Feito isso, cada ninho terá sua **"matrícula"**, no qual o número será utili
 
 ![TELAVARIOSCADASTROS](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/telacadastro.png)
 
-Como o usuário após o cadastro, na segunda tela, terá acesso as **estatísticas** dos ninhos cadastrados. 
+Após o cadastro, na segunda tela, o usuário terá acesso as **estatísticas** dos ninhos cadastrados. 
 Na segunda tela ele terá acesso a **quantidade total de ninhos cadastrados** e também a quantidade de ninhos cadastrados **por praia**.
 
 ![ESTATISTICAS](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/cadastrocomestatisticas.png)
