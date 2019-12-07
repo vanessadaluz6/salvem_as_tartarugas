@@ -1,11 +1,10 @@
 # salvem_as_tartarugas
-PRESERVAÇÃO DE TARTARUGAS MARINHAS
 
+PRESERVAÇÃO DE TARTARUGAS MARINHAS
 
 
 **Projeto feito utilizando QT Creator para a disciplina de Técnicas de Programação 2019.2** 
 
-Projeto desenvolvido para auxiliar no monitoramento de ninhos de tartarugas das praias de João Pessoa.
 
 **Como as tartarugas marinhas nascem?**
  
@@ -63,7 +62,7 @@ Para editar, bastar modificar as opções desejadas e clicar no botão **"Salvar
 Ou, se você quiser excluir, basta clicar no botão **"Excluir". **
 Você perceberá, que em seguida, o que você modificou será atualizado na tabela. =) 
 
-![EDITAR] (https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/editaratualizado.png)
+![EDITAR](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/editaratualizado.png)
 
 
 **Salvar e Carregar**
