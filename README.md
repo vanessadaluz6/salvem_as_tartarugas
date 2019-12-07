@@ -38,7 +38,6 @@ E, finalmente ele pode registrar se o ninho foi **sinalizado ou não**. (Esse é
 
 ![SINAL](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/sinal.png)
 
-Neste programa, você poderá cadastrar quantas praias forem necessárias...
 Feito isso, cada ninho terá sua **"matrícula"**, no qual o número será utilizado para diferenciar os ninhos na mesma praia, e também as desovas em dias iguais. Será composto pelo ano + semestre + ordem de cadastro, exemplo: 201911, com isso, cada ninho terá sua identificação. E também será gerado os dias possíveis dos nascimentos das tartarugas - tendo em vista que elas nascem entre 45 e 60 dias, teremos uma **data mínima** e uma **data máxima**.
 
 ![TELAVARIOSCADASTROS](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/telacadastro.png)
