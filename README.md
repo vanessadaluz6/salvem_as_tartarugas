@@ -55,6 +55,7 @@ Na segunda tela ele terá acesso a **quantidade total de ninhos cadastrados** e 
 ![PORPRAIA](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/porpraia.png)
 
 **OBSERVAÇÃO:**
+
 É importante ressaltar que, ao usuário ordenar por **desova**, ele também estará ordenando por **ninhos com datas mais próximas do nascimento**, tendo em vista que um está diretamente ligado ao outro. 
 
 **Caso você queira editar ou excluir algum cadastro, não se preocupe!**
