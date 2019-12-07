@@ -49,7 +49,7 @@ Ele terá acesso a **quantidade total de ninhos cadastrados** e também a quanti
 
 **Ordenar**
  
- Os dados poderão ser ordenados direto na tabela, caso você queria ordenar os ninhos **por praia**, é só clicar duas vezes na tabela em cima do nome PRAIA. Analogamente para as outras colunas da tabela, como mostrado na imagem a seguir:
+ Os dados poderão ser ordenados direto na tabela, caso você queira ordenar os ninhos **por praia**, é só clicar duas vezes na tabela em cima do nome PRAIA. Analogamente para as outras colunas da tabela, como mostrado na imagem a seguir:
 
 ![PORPRAIA](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/porpraia.png)
 
