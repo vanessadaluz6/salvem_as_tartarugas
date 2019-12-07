@@ -22,7 +22,7 @@ Na segunda, temos a tela das estatísticas onde aparecerão o total de praias ca
 
 ![TELAESTATISTICAS](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/telaestatisticas.png)
 	   
-#### **Manual do usuário**
+#### **MANUAL DO USUÁRIO**
 
 **Vamos começar o cadastro?**
 
