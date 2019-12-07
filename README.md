@@ -75,7 +75,9 @@ Caso o usuário queira carregar os cadastros: O usuário deve procurar o arquivo
 
 ![ARQUIVO](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/arquivo.png)
 
-![SALVAR](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/Captura%20de%20tela%20de%202019-12-07%2006-50-23.png)
+![SALVAR](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/salvararquivo.png)
+
+![CARREGAR](https://github.com/vanessadaluz6/salvem_as_tartarugas/blob/master/imagens_tartatugasfofas/Captura%20de%20tela%20de%202019-12-07%2006-50-23.png)
 
 **Obrigada pela atenção!**
 
