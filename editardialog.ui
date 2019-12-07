@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>EditarDialog</class>
+ <widget class="QDialog" name="EditarDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>277</width>
+    <height>229</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">color: rgb(252, 233, 79);
+</string>
+  </property>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>261</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QLabel" name="test">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(92, 53, 102);</string>
+        </property>
+        <property name="text">
+         <string>PRAIA:</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QComboBox" name="cB_1">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(85, 87, 83);
+background-color: rgb(248, 230, 78);
+</string>
+        </property>
+        <item>
+         <property name="text">
+          <string>BESSA</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>MANAÍRA</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>CABO BRANCO</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>TAMBAÚ</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>SEIXAS</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>PENHA</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_2">
+      <item>
+       <widget class="QLabel" name="label_2">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(92, 53, 102);</string>
+        </property>
+        <property name="text">
+         <string>DESOVA:</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDateEdit" name="data_1">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(85, 87, 83);
+background-color: rgb(252, 233, 79);
+</string>
+        </property>
+        <property name="calendarPopup">
+         <bool>true</bool>
+        </property>
+        <property name="date">
+         <date>
+          <year>2019</year>
+          <month>1</month>
+          <day>1</day>
+         </date>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_3">
+      <item>
+       <widget class="QLabel" name="label_3">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(92, 53, 102);</string>
+        </property>
+        <property name="text">
+         <string>SINALIZAÇÃO:</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QComboBox" name="cB_2">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(85, 87, 83);
+background-color: rgb(252, 233, 79);</string>
+        </property>
+        <item>
+         <property name="text">
+          <string>PENDENTE</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>FINALIZADO</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QPushButton" name="btn_salvar">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>180</y>
+     <width>71</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(248, 230, 78);
+color: rgb(92, 53, 102);</string>
+   </property>
+   <property name="text">
+    <string>Salvar</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>180</y>
+     <width>81</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(252, 233, 79);
+color: rgb(92, 53, 102);</string>
+   </property>
+   <property name="text">
+    <string>Cancelar</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_excluir">
+   <property name="geometry">
+    <rect>
+     <x>179</x>
+     <y>180</y>
+     <width>81</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(239, 41, 41);
+color: rgb(92, 53, 102);</string>
+   </property>
+   <property name="text">
+    <string>EXCLUIR </string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
