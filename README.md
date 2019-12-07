@@ -80,4 +80,4 @@ Caso o usuário queira carregar os cadastros: O usuário deve procurar o arquivo
 
 **Obrigada pela atenção!**
 
-Para maiores informações: vanessa.luz@academico.ifpb.edu.br
+Para maiores informações, dúvidas ou feedbacks: vanessa.luz@academico.ifpb.edu.br
